@@ -99,7 +99,7 @@ mc.help()
 ## ✍️ Author
 
 Made with ❤️ by **Subhrajeet**
-🎓 AIML Student | 🧠 Python Developer 
+🎓 CS IT Student
 
 ---
 

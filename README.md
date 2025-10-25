@@ -98,7 +98,7 @@ mc.help()
 
 ## ✍️ Author
 
-Made with ❤️ by **Subhrajeet**
+Made with ❤️ by **Subhrajeet** 
 🎓 CS IT Student
 
 ---
